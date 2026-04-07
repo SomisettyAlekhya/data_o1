@@ -1,12 +1,14 @@
+---
 title: Data Cleaning OpenEnv
 emoji: 🧹
 colorFrom: blue
 colorTo: green
 sdk: docker
-sdk_version: 2.13.0
-python_version: '3.10'
+sdk_version: "2.13.0"
+python_version: "3.10"
 app_file: app.py
 pinned: false
+---
 
 # OpenEnv Data Cleaning Environment (FULL PASS)
 
