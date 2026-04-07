@@ -1,0 +1,11 @@
+
+name: data-cleaning-env
+description: Real-world data cleaning simulation
+
+tasks:
+  - name: easy
+    description: Fix missing values
+  - name: medium
+    description: Fix missing + duplicates
+  - name: hard
+    description: Full cleaning pipeline
